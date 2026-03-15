@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "ybit-community",
     "public": "dist",
     "ignore": [
       "firebase.json",
